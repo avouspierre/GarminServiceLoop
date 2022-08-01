@@ -11,6 +11,7 @@ The integration is a fork of FreeAPSX/Garmin branch provided by Ivalkou and modi
 The service is **VERY experimental**
 
 After installing the Garmin Service, we need to compile and upload a watchface or DataField in your Garmin Device. 
+https://github.com/avouspierre/LoopGarminWatchFace 
 
 # Install
 
@@ -70,7 +71,9 @@ Just go !
 See Garmin IQConnect how to install SDK and compile with your correct device. 
 https://developer.garmin.com/connect-iq/connect-iq-basics/getting-started/#gettingstarted 
 
+Watch Face : https://github.com/avouspierre/LoopGarminWatchFace 
 
+Data Field : https://github.com/avouspierre/LoopGarminDataField 
 
 # Use
 
